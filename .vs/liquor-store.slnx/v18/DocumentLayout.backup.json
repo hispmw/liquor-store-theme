@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\global.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\theme\\global.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\mega-navigation.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\theme\\custom\\mega-navigation.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\header.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\components\\common\\header.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\alert\\alert-success.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\components\\common\\alert\\alert-success.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\theme.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scss\\theme.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\custom\\_mega-navigation.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scss\\custom\\_mega-navigation.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\mega-navigation.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\components\\common\\mega-navigation.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\footer.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\components\\common\\footer.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\age-verification.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\theme\\custom\\age-verification.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\layout\\base.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\layout\\base.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\age-verification.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\components\\common\\age-verification.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\pages\\home.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\pages\\home.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mega-navigation.js",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\mega-navigation.js",
+              "RelativeDocumentMoniker": "assets\\js\\theme\\custom\\mega-navigation.js",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\mega-navigation.js",
+              "RelativeToolTip": "assets\\js\\theme\\custom\\mega-navigation.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-19T18:08:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "header.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\header.html",
+              "RelativeDocumentMoniker": "templates\\components\\common\\header.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\header.html",
+              "RelativeToolTip": "templates\\components\\common\\header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T18:07:04.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "alert-success.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\alert\\alert-success.html",
+              "RelativeDocumentMoniker": "templates\\components\\common\\alert\\alert-success.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\alert\\alert-success.html",
+              "RelativeToolTip": "templates\\components\\common\\alert\\alert-success.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T18:06:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "theme.scss",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\theme.scss",
+              "RelativeDocumentMoniker": "assets\\scss\\theme.scss",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\theme.scss",
+              "RelativeToolTip": "assets\\scss\\theme.scss",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T18:05:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_mega-navigation.scss",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\custom\\_mega-navigation.scss",
+              "RelativeDocumentMoniker": "assets\\scss\\custom\\_mega-navigation.scss",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\scss\\custom\\_mega-navigation.scss",
+              "RelativeToolTip": "assets\\scss\\custom\\_mega-navigation.scss",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T18:04:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mega-navigation.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\mega-navigation.html",
+              "RelativeDocumentMoniker": "templates\\components\\common\\mega-navigation.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\mega-navigation.html",
+              "RelativeToolTip": "templates\\components\\common\\mega-navigation.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T18:02:02.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\footer.html",
+              "RelativeDocumentMoniker": "templates\\components\\common\\footer.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\footer.html",
+              "RelativeToolTip": "templates\\components\\common\\footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T18:01:31.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "base.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\layout\\base.html",
+              "RelativeDocumentMoniker": "templates\\layout\\base.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\layout\\base.html",
+              "RelativeToolTip": "templates\\layout\\base.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T17:39:19.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "global.js",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\global.js",
+              "RelativeDocumentMoniker": "assets\\js\\theme\\global.js",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\global.js",
+              "RelativeToolTip": "assets\\js\\theme\\global.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-19T17:27:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "age-verification.js",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\age-verification.js",
+              "RelativeDocumentMoniker": "assets\\js\\theme\\custom\\age-verification.js",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\assets\\js\\theme\\custom\\age-verification.js",
+              "RelativeToolTip": "assets\\js\\theme\\custom\\age-verification.js",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwI4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-19T17:26:35.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "age-verification.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\age-verification.html",
+              "RelativeDocumentMoniker": "templates\\components\\common\\age-verification.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\components\\common\\age-verification.html",
+              "RelativeToolTip": "templates\\components\\common\\age-verification.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T17:21:33.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\pages\\home.html",
+              "RelativeDocumentMoniker": "templates\\pages\\home.html",
+              "ToolTip": "C:\\Users\\AnthonyM\\Desktop\\liquor-store\\templates\\pages\\home.html",
+              "RelativeToolTip": "templates\\pages\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T17:15:36.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

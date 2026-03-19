@@ -1,0 +1,95 @@
+﻿<div id="ageVerificationModal" class="modal modal--large" style="display: none;">
+    <div class="modal-content">
+        <div class="modal-header" style="background-color: #000; color: #fff; text-align: center; padding: 20px;">
+            <h2 style="margin: 0; color: #fff;"> AGE VERIFICATION REQUIRED</h2>
+        </div>
+        <div class="modal-body" style="padding: 30px; text-align: center;">
+            <div style="margin-bottom: 25px;">
+                <img src="https://cdn11.bigcommerce.com/s-{{settings.store_hash}}/product_images/uploaded_images/21-plus-logo.png" 
+                     alt="21+ Only" 
+                     style="max-width: 150px; margin-bottom: 20px;"
+                     onerror="this.style.display='none'">
+                <h3 style="font-size: 24px; margin-bottom: 15px;">Welcome to Our Liquor Store</h3>
+                <p style="font-size: 18px; margin-bottom: 25px; color: #666;">
+                    You must be <strong>21 years of age or older</strong> to enter this website.
+                </p>
+                <p style="font-size: 16px; margin-bottom: 30px; color: #999;">
+                    By entering this site, you agree to our <a href="/terms-conditions/" style="color: #000;">Terms & Conditions</a> 
+                    and <a href="/privacy-policy/" style="color: #000;">Privacy Policy</a>.
+                </p>
+            </div>
+            
+            <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                <button id="ageConfirmYes" class="button button--primary" style="background-color: #28a745; border-color: #28a745; padding: 15px 40px; font-size: 18px;">
+                    YES, I AM 21+
+                </button>
+                <button id="ageConfirmNo" class="button button--secondary" style="background-color: #dc3545; border-color: #dc3545; color: #fff; padding: 15px 40px; font-size: 18px;">
+                    NO, I AM UNDER 21
+                </button>
+            </div>
+            
+            <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; font-size: 14px; color: #999;">
+                <p>Please drink responsibly. By entering this site, you agree to our terms.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+/* Modal overlay styles */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    z-index: 9998;
+    backdrop-filter: blur(5px);
+}
+
+#ageVerificationModal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    max-width: 600px;
+    width: 90%;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 10px 50px rgba(0,0,0,0.3);
+    animation: modalFadeIn 0.3s ease-out;
+}
+
+@keyframes modalFadeIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -60%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    #ageVerificationModal {
+        width: 95%;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+    
+    .modal-body {
+        padding: 20px !important;
+    }
+    
+    .button {
+        width: 100%;
+        margin: 5px 0;
+    }
+}
+</style>

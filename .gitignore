@@ -1,13 +1,24 @@
+# Dependencies
 node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# Environment
+.env
 .stencil
-config.stencil.json
-secrets.stencil.json
 .DS_Store
-assets/css-artifacts
-assets/js/bundle.js
-assets/dist
-vendor/bundle
-.bundle
-*.js.map
-*.zip
+Thumbs.db
+
+# Build outputs
+*.log
+dist/
+public/
+
+# IDE
+.vscode/
 .idea/
+*.sublime-*
+
+# Stencil specific
+*.stencil-tmp
+.local

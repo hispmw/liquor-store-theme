@@ -1,4 +1,4 @@
-import 'focus-within-polyfill';
+﻿import 'focus-within-polyfill';
 
 import './global/jquery-migrate';
 import './common/select-option-plugin';
@@ -13,9 +13,14 @@ import quickView from './global/quick-view';
 import cartPreview from './global/cart-preview';
 import carousel from './common/carousel';
 import svgInjector from './global/svg-injector';
+import AgeVerification from './custom/age-verification';
+// Add import
+import MegaNavigation from './custom/mega-navigation';
 
-export default class Global extends PageManager {
-    onReady() {
+new MegaNavigation();
+
+export default class Global extends PageManager {  // ✅ Class starts here
+    onReady() {  // ✅ Method INSIDE the class
         const { cartId, secureBaseUrl } = this.context;
         cartPreview(secureBaseUrl, cartId);
         quickSearch();
@@ -27,5 +32,10 @@ export default class Global extends PageManager {
         menu();
         mobileMenuToggle();
         svgInjector();
+        
+        // Initialize age verification
+        new AgeVerification();
+    //new MegaNavigation();
+
     }
-}
+}  // ✅ Class ends here

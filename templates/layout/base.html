@@ -7,6 +7,19 @@
         {{{ head.config }}}
         {{#block "head"}} {{/block}}
 
+        <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self' https: http: data: blob: 'unsafe-inline' 'unsafe-eval';
+    script-src 'self' https: http: 'unsafe-inline' 'unsafe-eval' https://www.google.com https://www.gstatic.com;
+    style-src 'self' https: http: 'unsafe-inline';
+    connect-src 'self' https: http: https://api.bigcommerce.com https://clrbw.mybigcommerce.com https://cdn11.bigcommerce.com;
+    img-src 'self' https: http: data: blob: https://cdn11.bigcommerce.com;
+    font-src 'self' https: http: data:;
+    frame-src 'self' https: http: https://www.google.com;
+">
+
+
+
+
         <link href="{{{ head.favicon }}}" rel="shortcut icon">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

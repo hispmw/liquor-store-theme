@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\js",
+    "\\assets\\js\\theme",
+    "\\assets\\js\\theme\\custom",
+    "\\assets\\scss\\custom",
+    "\\templates",
+    "\\templates\\components",
+    "\\templates\\components\\common",
+    "\\templates\\components\\common\\modal"
+  ],
+  "SelectedNode": "\\assets\\js\\theme\\custom\\mega-navigation.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,119 @@
+// Mega Navigation Styles
+.navPages-list--mega {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.navPages-item--mega {
+    position: static !important; // Allow mega menu to be full width
+    
+    &:hover {
+        .navPage-subMenu--mega {
+            display: block;
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+    }
+}
+
+.navPage-subMenu--mega {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    border-top: 1px solid #e8e8e8;
+    z-index: 1000;
+    padding: 30px;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.2s ease-in-out;
+    
+    &.is-open {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+}
+
+.navPage-subMenu-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navPage-subMenu-column {
+    break-inside: avoid;
+}
+
+.navPage-subMenu-column--featured {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.navPage-subMenu-action.navPages-action--column-heading {
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+    color: #000;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.navPage-subMenu-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    .navPage-subMenu-item {
+        margin: 8px 0;
+        
+        .navPage-subMenu-action {
+            font-size: 14px;
+            color: #666;
+            transition: color 0.2s;
+            padding: 3px 0;
+            
+            &:hover {
+                color: #000;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+// Responsive
+@media (max-width: 1024px) {
+    .navPage-subMenu-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .navPage-subMenu--mega {
+        position: relative;
+        box-shadow: none;
+        padding: 15px;
+    }
+    
+    .navPage-subMenu-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .navPage-subMenu-column--featured {
+        display: none;
+    }
+}
